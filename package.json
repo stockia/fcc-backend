@@ -1,6 +1,7 @@
 {
   "author": "Alex Stocki!",
   "name": "fcc-learn-npm-package-json",
+  "description": "Educational project for freeCodeCamp's backend challenges",
   "dependencies": {
     "express": "^4.14.0"
   },
