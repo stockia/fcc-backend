@@ -2,7 +2,6 @@
   "author": "Alex Stocki!",
   "name": "fcc-learn-npm-package-json",
   "description": "Educational project for freeCodeCamp's backend challenges",
-  "keywords": ["freecodecamp", "backend", "npm", "challenge"],
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -21,6 +20,6 @@
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
   "devDependencies": {},
-  "keywords": [],
+  "keywords": ["freecodecamp", "npm", "backend", "challenges"],
   "license": "ISC"
 }
